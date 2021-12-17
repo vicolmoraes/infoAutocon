@@ -1,0 +1,268 @@
+{
+  "id": 0,
+  "quiz_method": 0,
+  "quiz_name": "Conheça o DISC",
+  "quiz_description": "DISC é uma das metodologias mais populares para avaliações comportamentais. Entenda como você é em relação aos 4 tipos: Dominância, Influência, Estabilidade e Conformidade.",
+  "questions": [
+    {
+      "id": 0,
+      "description": "Como você se definiria?",
+      "options": [
+        {
+          "id": 0,
+          "description": "Decidido",
+          "behavior": "d"
+        },
+        {
+          "id": 1,
+          "description": "Extrovertido",
+          "behavior": "i"
+        },
+        {
+          "id": 2,
+          "description": "Preocupado",
+          "behavior": "s"
+        },
+        {
+          "id": 3,
+          "description": "Coerente",
+          "behavior": "c"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "description": "Como você se definiria?",
+      "options": [
+        {
+          "id": 0,
+          "description": "Decidido",
+          "behavior": "d"
+        },
+        {
+          "id": 1,
+          "description": "Extrovertido",
+          "behavior": "i"
+        },
+        {
+          "id": 2,
+          "description": "Preocupado",
+          "behavior": "s"
+        },
+        {
+          "id": 3,
+          "description": "Coerente",
+          "behavior": "c"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "description": "Como você se definiria?",
+      "options": [
+        {
+          "id": 0,
+          "description": "Decidido",
+          "behavior": "d"
+        },
+        {
+          "id": 1,
+          "description": "Extrovertido",
+          "behavior": "i"
+        },
+        {
+          "id": 2,
+          "description": "Preocupado",
+          "behavior": "s"
+        },
+        {
+          "id": 3,
+          "description": "Coerente",
+          "behavior": "c"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "description": "Como você se definiria?",
+      "options": [
+        {
+          "id": 0,
+          "description": "Decidido",
+          "behavior": "d"
+        },
+        {
+          "id": 1,
+          "description": "Extrovertido",
+          "behavior": "i"
+        },
+        {
+          "id": 2,
+          "description": "Preocupado",
+          "behavior": "s"
+        },
+        {
+          "id": 3,
+          "description": "Coerente",
+          "behavior": "c"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "description": "Como você se definiria?",
+      "options": [
+        {
+          "id": 0,
+          "description": "Decidido",
+          "behavior": "d"
+        },
+        {
+          "id": 1,
+          "description": "Extrovertido",
+          "behavior": "i"
+        },
+        {
+          "id": 2,
+          "description": "Preocupado",
+          "behavior": "s"
+        },
+        {
+          "id": 3,
+          "description": "Coerente",
+          "behavior": "c"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "description": "Como você se definiria?",
+      "options": [
+        {
+          "id": 0,
+          "description": "Decidido",
+          "behavior": "d"
+        },
+        {
+          "id": 1,
+          "description": "Extrovertido",
+          "behavior": "i"
+        },
+        {
+          "id": 2,
+          "description": "Preocupado",
+          "behavior": "s"
+        },
+        {
+          "id": 3,
+          "description": "Coerente",
+          "behavior": "c"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "description": "Como você se definiria?",
+      "options": [
+        {
+          "id": 0,
+          "description": "Decidido",
+          "behavior": "d"
+        },
+        {
+          "id": 1,
+          "description": "Extrovertido",
+          "behavior": "i"
+        },
+        {
+          "id": 2,
+          "description": "Preocupado",
+          "behavior": "s"
+        },
+        {
+          "id": 3,
+          "description": "Coerente",
+          "behavior": "c"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "description": "Como você se definiria?",
+      "options": [
+        {
+          "id": 0,
+          "description": "Decidido",
+          "behavior": "d"
+        },
+        {
+          "id": 1,
+          "description": "Extrovertido",
+          "behavior": "i"
+        },
+        {
+          "id": 2,
+          "description": "Preocupado",
+          "behavior": "s"
+        },
+        {
+          "id": 3,
+          "description": "Coerente",
+          "behavior": "c"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "description": "Como você se definiria?",
+      "options": [
+        {
+          "id": 0,
+          "description": "Decidido",
+          "behavior": "d"
+        },
+        {
+          "id": 1,
+          "description": "Extrovertido",
+          "behavior": "i"
+        },
+        {
+          "id": 2,
+          "description": "Preocupado",
+          "behavior": "s"
+        },
+        {
+          "id": 3,
+          "description": "Coerente",
+          "behavior": "c"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "description": "Como você se definiria?",
+      "options": [
+        {
+          "id": 0,
+          "description": "Decidido",
+          "behavior": "d"
+        },
+        {
+          "id": 1,
+          "description": "Extrovertido",
+          "behavior": "i"
+        },
+        {
+          "id": 2,
+          "description": "Preocupado",
+          "behavior": "s"
+        },
+        {
+          "id": 3,
+          "description": "Coerente",
+          "behavior": "c"
+        }
+      ]
+    }
+  ]
+}
