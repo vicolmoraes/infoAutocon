@@ -36,22 +36,22 @@
       "options": [
         {
           "id": 0,
-          "description": "Decidido",
+          "description": "Assertivo",
           "behavior": "d"
         },
         {
           "id": 1,
-          "description": "Extrovertido",
+          "description": "Otimista",
           "behavior": "i"
         },
         {
           "id": 2,
-          "description": "Preocupado",
+          "description": "Paciente",
           "behavior": "s"
         },
         {
           "id": 3,
-          "description": "Coerente",
+          "description": "Prudente",
           "behavior": "c"
         }
       ]
@@ -62,22 +62,22 @@
       "options": [
         {
           "id": 0,
-          "description": "Decidido",
+          "description": "Ambicioso",
           "behavior": "d"
         },
         {
           "id": 1,
-          "description": "Extrovertido",
+          "description": "Confiante",
           "behavior": "i"
         },
         {
           "id": 2,
-          "description": "Preocupado",
+          "description": "Bom Ouvinte",
           "behavior": "s"
         },
         {
           "id": 3,
-          "description": "Coerente",
+          "description": "Meticuloso",
           "behavior": "c"
         }
       ]
@@ -88,22 +88,22 @@
       "options": [
         {
           "id": 0,
-          "description": "Decidido",
+          "description": "Caloroso",
           "behavior": "d"
         },
         {
           "id": 1,
-          "description": "Extrovertido",
+          "description": "Competitivo",
           "behavior": "i"
         },
         {
           "id": 2,
-          "description": "Preocupado",
+          "description": "Gentil",
           "behavior": "s"
         },
         {
           "id": 3,
-          "description": "Coerente",
+          "description": "Diplomata",
           "behavior": "c"
         }
       ]
@@ -114,22 +114,22 @@
       "options": [
         {
           "id": 0,
-          "description": "Decidido",
+          "description": "Objetivo",
           "behavior": "d"
         },
         {
           "id": 1,
-          "description": "Extrovertido",
+          "description": "Popular",
           "behavior": "i"
         },
         {
           "id": 2,
-          "description": "Preocupado",
+          "description": "Lógico",
           "behavior": "s"
         },
         {
           "id": 3,
-          "description": "Coerente",
+          "description": "Confiável",
           "behavior": "c"
         }
       ]
@@ -140,22 +140,22 @@
       "options": [
         {
           "id": 0,
-          "description": "Decidido",
+          "description": "Agressivo",
           "behavior": "d"
         },
         {
           "id": 1,
-          "description": "Extrovertido",
+          "description": "Expansivo",
           "behavior": "i"
         },
         {
           "id": 2,
-          "description": "Preocupado",
+          "description": "Possessivo",
           "behavior": "s"
         },
         {
           "id": 3,
-          "description": "Coerente",
+          "description": "Julgador",
           "behavior": "c"
         }
       ]
@@ -166,22 +166,22 @@
       "options": [
         {
           "id": 0,
-          "description": "Decidido",
+          "description": "Metódico",
           "behavior": "d"
         },
         {
           "id": 1,
-          "description": "Extrovertido",
+          "description": "Apressado",
           "behavior": "i"
         },
         {
           "id": 2,
-          "description": "Preocupado",
+          "description": "Persuasivo",
           "behavior": "s"
         },
         {
           "id": 3,
-          "description": "Coerente",
+          "description": "Cuidadoso",
           "behavior": "c"
         }
       ]
@@ -192,22 +192,22 @@
       "options": [
         {
           "id": 0,
-          "description": "Decidido",
+          "description": "Inovador",
           "behavior": "d"
         },
         {
           "id": 1,
-          "description": "Extrovertido",
+          "description": "Agradável",
           "behavior": "i"
         },
         {
           "id": 2,
-          "description": "Preocupado",
+          "description": "Comunicativo",
           "behavior": "s"
         },
         {
           "id": 3,
-          "description": "Coerente",
+          "description": "Elegante",
           "behavior": "c"
         }
       ]
@@ -218,22 +218,22 @@
       "options": [
         {
           "id": 0,
-          "description": "Decidido",
+          "description": "Autoritário",
           "behavior": "d"
         },
         {
           "id": 1,
-          "description": "Extrovertido",
+          "description": "Modesto",
           "behavior": "i"
         },
         {
           "id": 2,
-          "description": "Preocupado",
+          "description": "Flexível",
           "behavior": "s"
         },
         {
           "id": 3,
-          "description": "Coerente",
+          "description": "Desconfiado",
           "behavior": "c"
         }
       ]
@@ -244,22 +244,22 @@
       "options": [
         {
           "id": 0,
-          "description": "Decidido",
+          "description": "Visionário",
           "behavior": "d"
         },
         {
           "id": 1,
-          "description": "Extrovertido",
+          "description": "Criativo",
           "behavior": "i"
         },
         {
           "id": 2,
-          "description": "Preocupado",
+          "description": "Ponderado",
           "behavior": "s"
         },
         {
           "id": 3,
-          "description": "Coerente",
+          "description": "Detalhista",
           "behavior": "c"
         }
       ]
